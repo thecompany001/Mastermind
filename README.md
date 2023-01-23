@@ -27,4 +27,4 @@ The matchGuess function is used to compare the player's guesses to the code. The
 
 The displayHistory function is used to create a simple interface to display the player's previous guesses and their results by showing their guess number, correct numbers, correct locations, and the respective guess. 
 
-The game function is used to provide the guidelines of the game to the user, obtain the user's name, establish the difficulty level, display the number/color pairs, count and display the remaining guesses, and provide the user with tips on how to play the game, and the results if the player wins or loses. # Mastermind
+The game function is used to provide the guidelines of the game to the user, obtain the user's name, establish the difficulty level, display the number/color pairs, count and display the remaining guesses, provide the user with tips on how to play the game, and the results if the player wins or loses.
